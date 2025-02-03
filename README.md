@@ -1,5 +1,5 @@
 
-# BotBattle - 基于遗传算法的双手对战AI
+# 基于遗传算法的双手对战AI
 
 *该README文件由[DeepSeek](https://github.com/deepseek-ai/DeepSeek-R1)撰写并结构化*
 
